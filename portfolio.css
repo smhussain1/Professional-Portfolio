@@ -78,7 +78,7 @@ body:after {
     font-weight: bold;
 }
 
-.project-photo {
+.project-photo-chess {
     background-image: url("./images/chess-quiz-mobile.jpg");
     min-height: 15vh;
     min-width: 20vw;
@@ -88,6 +88,15 @@ body:after {
     opacity: .7;
 }
 
+.project-photo-chess {
+    background-image: url("./images/Page1.jpg");
+    min-height: 15vh;
+    min-width: 20vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: .7;
+}
 
 .project-details p {
     letter-spacing: 2px;
